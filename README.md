@@ -1,2 +1,3 @@
 # turtle-racing
-Turtle racing game
+
+A turtle racing game
